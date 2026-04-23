@@ -39,7 +39,7 @@ OR:
 1. Clone the repository  
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 3. Open and run: `main_notebook.ipynb`
 4. Run all cells in order (top -> bottom)
 
